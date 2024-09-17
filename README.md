@@ -23,3 +23,8 @@ Data Analysis Mathematics, Algorithms and Modeling
 7. Move all files downloaded from Kaggle dataset in the "Dataset" Directory
 8. Open "Workshop1.ipynb" and run first program snippet. 
 9. It should display top 5 rows from file "RAW_recipe.csv"
+
+
+### Update Requirements.txt file once installing new packages
+
+```pip freeze > requirements.txt```
